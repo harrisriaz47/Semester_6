@@ -1,6 +1,6 @@
 # German Language
 
-[Greetings-1](Greetings-1 5d682e8ccbf949eb808107faa7362043.csv)
+[Greetings-1](https://github.com/harrisriaz47/Semester_6/blob/ea564689ca42bf37fe413c9b46a1f20deb177e1a/Greetings-1%205d682e8ccbf949eb808107faa7362043.csv)
 
 [Week Days](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Week%20Days%206eb3015076e240c6b4a4aa471a8da5bb.csv)
 
