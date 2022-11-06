@@ -37,8 +37,7 @@
 [Counting-3, date of birth](https://github.com/harrisriaz47/Semester_6/blob/main/Counting-3%2C%20date%20of%20birth%2054a43eb925cf42299fc4c7f9a7e04537.md)
 
 [Conjugation](https://github.com/harrisriaz47/Semester_6/blob/main/Conjugation%20316c5c19e800426cbee40bbdbb3238f8.csv)
-[
-](https://github.com/harrisriaz47/Semester_6/blob/main/Words%204031d5434fac473aafa5746622a842db.csv)
+
 [Bestimmtartikel](https://github.com/harrisriaz47/Semester_6/blob/main/Bestimmtartikel%2041b3c3c439c34c66a18999afe591abaf.md)
 
 [Family](https://github.com/harrisriaz47/Semester_6/blob/main/Family%20927ef05aa06e407aa0f15d111e4471f0.csv)
