@@ -30,32 +30,33 @@
 
 [Personal Pronomen](https://github.com/harrisriaz47/Semester_6/blob/main/Personal%20Pronomen%2051f3a1fb60624d429ff639425de3a0bc.csv)
 
-[Verb Conjugation](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Verb%20Conjugation%20968b6dd7310e42738b8debd02dba6fef.csv)
+[Verb Conjugation](https://github.com/harrisriaz47/Semester_6/blob/main/Verb%20Conjugation%20968b6dd7310e42738b8debd02dba6fef.csv)
 
-[Ordinal Nummer](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Ordinal%20Nummer%20e37dcf6b123242c085d30e243aa1e0f9.csv)
+[Ordinal Nummer](https://github.com/harrisriaz47/Semester_6/blob/main/Ordinal%20Nummer%20e37dcf6b123242c085d30e243aa1e0f9.csv)
 
-[Counting-3, date of birth](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Counting-3,%20date%20of%20birth%2054a43eb925cf42299fc4c7f9a7e04537.md)
+[Counting-3, date of birth](https://github.com/harrisriaz47/Semester_6/blob/main/Counting-3%2C%20date%20of%20birth%2054a43eb925cf42299fc4c7f9a7e04537.md)
 
-[Conjugation](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Conjugation%20316c5c19e800426cbee40bbdbb3238f8.csv)
+[Conjugation](https://github.com/harrisriaz47/Semester_6/blob/main/Conjugation%20316c5c19e800426cbee40bbdbb3238f8.csv)
+[
+](https://github.com/harrisriaz47/Semester_6/blob/main/Words%204031d5434fac473aafa5746622a842db.csv)
+[Bestimmtartikel](https://github.com/harrisriaz47/Semester_6/blob/main/Bestimmtartikel%2041b3c3c439c34c66a18999afe591abaf.md)
 
-[Bestimmtartikel](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Bestimmtartikel%2041b3c3c439c34c66a18999afe591abaf.md)
+[Family](https://github.com/harrisriaz47/Semester_6/blob/main/Family%20927ef05aa06e407aa0f15d111e4471f0.csv)
 
-[Family](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Family%20927ef05aa06e407aa0f15d111e4471f0.csv)
+[Possessive Pronomen](https://github.com/harrisriaz47/Semester_6/blob/main/Possessive%20Pronomen%204fe767294dde4ab8811de38a13afa63a.csv)
 
-[Possessive Pronomen](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Possessive%20Pronomen%204fe767294dde4ab8811de38a13afa63a.csv)
+[Infinitives](https://github.com/harrisriaz47/Semester_6/blob/main/Infinitives%209c5270be293a4e589bc42a4fd7e41f4e.csv)
 
-[Infinitives](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Infinitives%209c5270be293a4e589bc42a4fd7e41f4e.csv)
+[Infinitives-2](https://github.com/harrisriaz47/Semester_6/blob/main/Infinitives-2%20609f63f5607e4329a66d3af4eb2e3cd3.md)
 
-[Infinitives-2](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Infinitives-2%20609f63f5607e4329a66d3af4eb2e3cd3.md)
+[Words](https://github.com/harrisriaz47/Semester_6/blob/main/Words%204031d5434fac473aafa5746622a842db.csv)
 
-[Words](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Words%204031d5434fac473aafa5746622a842db.csv)
+[Adjectives → Adjektiv](https://github.com/harrisriaz47/Semester_6/blob/main/Adjectives%20%E2%86%92%20Adjektiv%20eac40f3201054ec6959060bdaa9f67ea.csv)
 
-[Adjectives → Adjektiv](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Adjectives%20%E2%86%92%20Adjektiv%20eac40f3201054ec6959060bdaa9f67ea.csv)
+[Time](https://github.com/harrisriaz47/Semester_6/blob/main/Time%2067f6ad2ee1b4471ca53f7fcf2e79dc2f.md)
 
-[Time](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Time%2067f6ad2ee1b4471ca53f7fcf2e79dc2f.md)
+[Modal Verben](https://github.com/harrisriaz47/Semester_6/blob/main/Modal%20Verben%20c93e91ca99b447d99cd6bdb5bde8372c.md)
 
-[Modal Verben](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Modal%20Verben%20c93e91ca99b447d99cd6bdb5bde8372c.md)
-
-[Sentence Rule](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Sentence%20Rule%200baae02b085b4bb18908ebcc58a893b1.md)
+[Sentence Rule](https://github.com/harrisriaz47/Semester_6/blob/main/Sentence%20Rule%200baae02b085b4bb18908ebcc58a893b1.md)
 
 ßä***öü***
